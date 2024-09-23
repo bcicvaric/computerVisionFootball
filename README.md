@@ -17,3 +17,6 @@ Model used to do initial object detection is a model trained in my other repo ht
 
 ## Output
 Main script will create an output file in outputs/proc_08fd33_4.mp4
+
+## Reference
+https://www.youtube.com/watch?v=neBZ6huolkg&t=79s
